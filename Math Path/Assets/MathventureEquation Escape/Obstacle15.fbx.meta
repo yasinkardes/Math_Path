@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 8d17782943497e6499c48390839707e9
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -20482397823960682
+    second: Sphere.001|CircleAction
+  - first:
+      74: 8799339349212864487
+    second: Sphere.001|CircleAction.001
+  - first:
+      74: -5802060308433564771
+    second: Sphere.001|Cube.003Action
+  - first:
+      74: -6467253103227919909
+    second: Sphere.001|Cylinder.001Action
+  - first:
+      74: 8369806625039169871
+    second: Sphere.001|Cylinder.006Action
+  - first:
+      74: -6747584140196383837
+    second: Sphere.001|Cylinder.013Action
+  - first:
+      74: -6137842784977156736
+    second: Sphere.001|Cylinder.013Action.001
+  - first:
+      74: 1271734585545034088
+    second: Sphere.001|Cylinder.021Action
+  - first:
+      74: 532161853734929985
+    second: Sphere.001|Cylinder.023Action
+  - first:
+      74: 8496388700539456979
+    second: Sphere.001|Cylinder.026Action
+  - first:
+      74: -3090498158442343458
+    second: Sphere.001|Cylinder.027Action
+  - first:
+      74: 7364967128232705847
+    second: Sphere.001|Cylinder.029Action
+  - first:
+      74: 5800442143548662431
+    second: Sphere.001|Cylinder.030Action
+  - first:
+      74: -4104688770357363566
+    second: Sphere.001|Cylinder.044Action
+  - first:
+      74: 5800086920481909975
+    second: Sphere.001|Cylinder.044Action.001
+  - first:
+      74: -2751271859569242756
+    second: Sphere.001|CylinderAction
+  - first:
+      74: 7977985001590337999
+    second: Sphere.001|Obstacle_2Action
+  - first:
+      74: 7741540829791562348
+    second: Sphere.001|Obstacle_2Action.001
+  - first:
+      74: 1981929577864744026
+    second: Sphere.001|Obstacle_2Action.002
+  - first:
+      74: 4786538851079049271
+    second: Sphere.001|Obstacle_2Action.003
+  - first:
+      74: 8953276107141026628
+    second: Sphere.001|Obstacle_2Action.004
+  - first:
+      74: -4601971123656977397
+    second: Sphere.001|Obstacle_2Action.005
+  - first:
+      74: 7301731549488407336
+    second: Sphere.001|Obstacle_2Action.006
+  - first:
+      74: -5914476772360020478
+    second: Sphere.001|ObstacleAction
+  - first:
+      74: -34803131759029221
+    second: Sphere.001|Saw.001Action
+  - first:
+      74: 2445240191217437149
+    second: Sphere.001|Saw.002Action
+  - first:
+      74: -3036527314473485615
+    second: Sphere.001|Sphere.001Action
+  - first:
+      74: -2671510009533351144
+    second: Sphere.001|Torus.003Action
+  - first:
+      74: -4062052478462238949
+    second: Sphere.001|Torus.004Action
+  - first:
+      74: 2390641034172980993
+    second: Sphere.001|Torus.005Action
+  - first:
+      74: -4810479306570353020
+    second: Sphere.001|Torus.005Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

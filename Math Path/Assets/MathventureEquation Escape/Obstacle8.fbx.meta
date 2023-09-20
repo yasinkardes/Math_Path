@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: eb7f20985e4759f42b08aeb52a078887
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -6140929636998882431
+    second: Cylinder.044|CircleAction
+  - first:
+      74: 1807348206202386081
+    second: Cylinder.044|CircleAction.001
+  - first:
+      74: -867383482527117723
+    second: Cylinder.044|Cube.003Action
+  - first:
+      74: -3273100949497044543
+    second: Cylinder.044|Cylinder.001Action
+  - first:
+      74: 6021402659787753948
+    second: Cylinder.044|Cylinder.023Action
+  - first:
+      74: 4512833520479074663
+    second: Cylinder.044|Cylinder.044Action
+  - first:
+      74: -8570172085350860234
+    second: Cylinder.044|Cylinder.044Action.001
+  - first:
+      74: -6770400188100903109
+    second: Cylinder.044|Obstacle_2Action
+  - first:
+      74: -1849464833209899344
+    second: Cylinder.044|Obstacle_2Action.001
+  - first:
+      74: 150539186573507059
+    second: Cylinder.044|Obstacle_2Action.002
+  - first:
+      74: -1180981593664005726
+    second: Cylinder.044|Obstacle_2Action.003
+  - first:
+      74: -4361193567988853842
+    second: Cylinder.044|Obstacle_2Action.004
+  - first:
+      74: 6700976133506029889
+    second: Cylinder.044|Obstacle_2Action.005
+  - first:
+      74: 1818152925276962005
+    second: Cylinder.044|Obstacle_2Action.006
+  - first:
+      74: 2611715222112256733
+    second: Cylinder.044|ObstacleAction
+  - first:
+      74: -5404964991881160076
+    second: Cylinder.044|Torus.003Action
+  - first:
+      74: 8112007063336556007
+    second: Cylinder.044|Torus.004Action
+  - first:
+      74: 5930079642910375632
+    second: Cylinder.044|Torus.005Action
+  - first:
+      74: -33069880650026996
+    second: Cylinder.044|Torus.005Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

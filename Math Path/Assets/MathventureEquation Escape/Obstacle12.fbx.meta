@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: fc5874aa5328503478f8525e79477cb6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -8321065376172875706
+    second: Cylinder.029|CircleAction
+  - first:
+      74: -6862167455213637542
+    second: Cylinder.029|CircleAction.001
+  - first:
+      74: -3335584871874409556
+    second: Cylinder.029|Cube.003Action
+  - first:
+      74: -2341780052795935143
+    second: Cylinder.029|Cylinder.001Action
+  - first:
+      74: 8812504734408820581
+    second: Cylinder.029|Cylinder.006Action
+  - first:
+      74: 8523135911294496278
+    second: Cylinder.029|Cylinder.013Action
+  - first:
+      74: 5666919987636420964
+    second: Cylinder.029|Cylinder.013Action.001
+  - first:
+      74: 169909840078974179
+    second: Cylinder.029|Cylinder.021Action
+  - first:
+      74: 4312836829719494951
+    second: Cylinder.029|Cylinder.023Action
+  - first:
+      74: 4427008850457166176
+    second: Cylinder.029|Cylinder.026Action
+  - first:
+      74: 1993133034774811398
+    second: Cylinder.029|Cylinder.029Action
+  - first:
+      74: -3917044628380818219
+    second: Cylinder.029|Cylinder.044Action
+  - first:
+      74: 632029736818038904
+    second: Cylinder.029|Cylinder.044Action.001
+  - first:
+      74: -3795182489822007251
+    second: Cylinder.029|Obstacle_2Action
+  - first:
+      74: -4514085090409404796
+    second: Cylinder.029|Obstacle_2Action.001
+  - first:
+      74: 4922313486854560790
+    second: Cylinder.029|Obstacle_2Action.002
+  - first:
+      74: -1900718019770816113
+    second: Cylinder.029|Obstacle_2Action.003
+  - first:
+      74: -692517610495106720
+    second: Cylinder.029|Obstacle_2Action.004
+  - first:
+      74: -5872652475949437809
+    second: Cylinder.029|Obstacle_2Action.005
+  - first:
+      74: -8446978719941438315
+    second: Cylinder.029|Obstacle_2Action.006
+  - first:
+      74: -8153472190399596306
+    second: Cylinder.029|ObstacleAction
+  - first:
+      74: -1146562783779992402
+    second: Cylinder.029|Saw.001Action
+  - first:
+      74: -8834704511426772818
+    second: Cylinder.029|Saw.002Action
+  - first:
+      74: 3924912454898703476
+    second: Cylinder.029|Torus.003Action
+  - first:
+      74: -3869374906073893030
+    second: Cylinder.029|Torus.004Action
+  - first:
+      74: -321199128345225402
+    second: Cylinder.029|Torus.005Action
+  - first:
+      74: 5630607669771442622
+    second: Cylinder.029|Torus.005Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
